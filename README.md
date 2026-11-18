@@ -1,8 +1,6 @@
-# KI-Anonymisierer · Download
+# Umgezogen: jetzt KI-Tarnkappe
 
-Ein Werkzeug von TOP effektiv: Kundendaten raus, bevor die KI sie sieht. Die echten Namen kommen danach von selbst zurück.
+Der KI-Anonymisierer von TOP effektiv heißt jetzt **KI-Tarnkappe**.
+Download: [KI-Tarnkappe-Setup.exe](https://github.com/top-effektiv/ki-tarnkappe-updates/raw/main/KI-Tarnkappe-Setup.exe)
 
-**Download für Windows:** [KI-Anonymisierer-Setup.exe](https://github.com/top-effektiv/ki-anonymisierer-updates/raw/main/KI-Anonymisierer-Setup.exe)
-
-Beim ersten Start fragt das Programm nach Bestellnummer und Lizenzschlüssel. Beides steht in der Mail von Digistore nach dem Kauf.
-Deine Kundendaten verlassen nie deinen Rechner.
+(Dieses Fach bleibt nur, damit ältere Fassungen ihr Update finden.)
